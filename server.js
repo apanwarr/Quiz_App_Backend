@@ -609,7 +609,7 @@ const mcqs = {
     "answer": "B"
   }
 ]
-      
+};
 
 app.get('/api/mcqs', (req, res) => {
   res.json(mcqs);
