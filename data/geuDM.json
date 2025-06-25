@@ -1,0 +1,2204 @@
+{
+  "mcqs": [
+    {
+      "id": "1",
+      "question": "What is the main goal of digital marketing?",
+      "options": {
+        "A": "To create printed brochures",
+        "B": "To promote products using digital channels",
+        "C": "To increase offline sales only",
+        "D": "To hire more salespeople"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "2",
+      "question": "Which of the following is an example of traditional marketing?",
+      "options": {
+        "A": "Google Ads",
+        "B": "Instagram Marketing",
+        "C": "Newspaper Advertisement",
+        "D": "Email Campaign"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "3",
+      "question": "What is a key benefit of digital marketing over traditional marketing?",
+      "options": {
+        "A": "No analytics",
+        "B": "Fixed audience",
+        "C": "Real-time performance tracking",
+        "D": "High printing cost"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "4",
+      "question": "Which of the following best defines the digital marketing process?",
+      "options": {
+        "A": "Creating physical posters",
+        "B": "Planning, execution, analysis, and optimization",
+        "C": "Only keyword stuffing",
+        "D": "Ignoring customer feedback"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "5",
+      "question": "Which platform is NOT typically used in digital marketing?",
+      "options": {
+        "A": "Facebook",
+        "B": "Landline Telephony",
+        "C": "Instagram",
+        "D": "Google"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "6",
+      "question": "What does the term \"conversion\" mean in digital marketing?",
+      "options": {
+        "A": "Changing the brand name",
+        "B": "Turning a visitor into a customer",
+        "C": "Deleting a website",
+        "D": "Removing ads"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "7",
+      "question": "One of the key advantages of digital marketing is:",
+      "options": {
+        "A": "Unmeasurable impact",
+        "B": "One-way communication",
+        "C": "Two-way interaction with customers",
+        "D": "High physical distribution cost"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "8",
+      "question": "What is the main difference between traditional and digital marketing?",
+      "options": {
+        "A": "Traditional is fast",
+        "B": "Digital is data-driven and interactive",
+        "C": "Traditional uses social media",
+        "D": "Digital marketing uses newspapers"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "9",
+      "question": "Which of these is NOT a component of digital marketing?",
+      "options": {
+        "A": "SEO",
+        "B": "Social Media",
+        "C": "Door-to-door canvassing",
+        "D": "Email Marketing"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "10",
+      "question": "Why is digital marketing important in today’s world?",
+      "options": {
+        "A": "Limited audience reach",
+        "B": "Cost-effective and scalable",
+        "C": "No tracking possible",
+        "D": "Requires printed brochures"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "11",
+      "question": "What is a static website?",
+      "options": {
+        "A": "A website that updates itself",
+        "B": "A website with fixed content",
+        "C": "An e-commerce website",
+        "D": "A video-sharing platform"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "12",
+      "question": "What is the primary goal of website planning?",
+      "options": {
+        "A": "Designing business cards",
+        "B": "Buying backlinks",
+        "C": "Structuring the site to meet goals and audience needs",
+        "D": "Spamming keywords"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "13",
+      "question": "What does a blog typically focus on?",
+      "options": {
+        "A": "Sharing regular content and opinions",
+        "B": "Showing banner ads",
+        "C": "Live streaming only",
+        "D": "Emailing customers"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "14",
+      "question": "What are keywords in digital marketing?",
+      "options": {
+        "A": "Emails",
+        "B": "Passwords",
+        "C": "Words users type in search engines",
+        "D": "Image titles"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "15",
+      "question": "Why are keywords important for websites?",
+      "options": {
+        "A": "They reduce loading speed",
+        "B": "They help improve visibility in search engines",
+        "C": "They make URLs longer",
+        "D": "They block spam"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "16",
+      "question": "What is a landing page?",
+      "options": {
+        "A": "A login form",
+        "B": "A standalone web page designed for a marketing campaign",
+        "C": "A page with pop-ups",
+        "D": "A contact form only"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "17",
+      "question": "What should be considered during website planning?",
+      "options": {
+        "A": "Only colors",
+        "B": "Purpose, audience, content, and structure",
+        "C": "Ignore keywords",
+        "D": "Mobile-unfriendly design"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "18",
+      "question": "Which type of website is used for selling products online?",
+      "options": {
+        "A": "E-commerce Website",
+        "B": "Portfolio",
+        "C": "Blog",
+        "D": "Static page"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "19",
+      "question": "Why is keyword research essential?",
+      "options": {
+        "A": "To get more ads",
+        "B": "To use in email headers",
+        "C": "To target the right audience via search engines",
+        "D": "To post more on Facebook"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "20",
+      "question": "What tool helps in finding the best keywords?",
+      "options": {
+        "A": "Photoshop",
+        "B": "Google Keyword Planner",
+        "C": "Excel",
+        "D": "WhatsApp"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "21",
+      "question": "What is a domain name?",
+      "options": {
+        "A": "Computer code",
+        "B": "Logo design",
+        "C": "Website address (URL)",
+        "D": "Social media handle"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "22",
+      "question": "What does web hosting provide?",
+      "options": {
+        "A": "Social media ads",
+        "B": "Server space to store website data",
+        "C": "Brochures",
+        "D": "Paper ads"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "23",
+      "question": "What is WordPress mainly used for?",
+      "options": {
+        "A": "Sending emails",
+        "B": "Creating websites and blogs",
+        "C": "Designing banners",
+        "D": "Video editing"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "24",
+      "question": "What is CMS in WordPress?",
+      "options": {
+        "A": "Code Management System",
+        "B": "Content Management System",
+        "C": "Campaign Media Strategy",
+        "D": "Computer Managed Server"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "25",
+      "question": "Why are WordPress plug-ins useful?",
+      "options": {
+        "A": "They print flyers",
+        "B": "They add extra features to the website",
+        "C": "They reduce website security",
+        "D": "They block search engines"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "26",
+      "question": "Which is not required for website creation?",
+      "options": {
+        "A": "Television subscription",
+        "B": "Domain name",
+        "C": "Hosting",
+        "D": "CMS or HTML knowledge"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "27",
+      "question": "Which of the following is a free CMS?",
+      "options": {
+        "A": "WordPress",
+        "B": "Adobe Illustrator",
+        "C": "Canva",
+        "D": "Amazon"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "28",
+      "question": "What is the use of SSL in a website?",
+      "options": {
+        "A": "Slows down site",
+        "B": "Secures user data",
+        "C": "Sends spam",
+        "D": "Shows ads"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "29",
+      "question": "A blog is useful for:",
+      "options": {
+        "A": "Posting regular content and engaging visitors",
+        "B": "Making digital posters",
+        "C": "Sending SMS",
+        "D": "Changing domain names"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "30",
+      "question": "Which one is a WordPress plugin for SEO?",
+      "options": {
+        "A": "Canva",
+        "B": "Yoast SEO",
+        "C": "Excel",
+        "D": "Paint"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "31",
+      "question": "What does SEO stand for?",
+      "options": {
+        "A": "Site Easy Options",
+        "B": "Search Engine Optimization",
+        "C": "Sales Email Output",
+        "D": "Static Engine Option"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "32",
+      "question": "What is the purpose of SEO?",
+      "options": {
+        "A": "Reduce loading time",
+        "B": "Improve website ranking in search engines",
+        "C": "Send more emails",
+        "D": "Show more ads"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "33",
+      "question": "What is indexing in SEO?",
+      "options": {
+        "A": "Social media sharing",
+        "B": "Email scheduling",
+        "C": "Adding a webpage to the search engine database",
+        "D": "Designing banners"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "34",
+      "question": "What are meta tags?",
+      "options": {
+        "A": "Video files",
+        "B": "HTML tags that describe page content",
+        "C": "WordPress themes",
+        "D": "Domain names"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "35",
+      "question": "Which is an On-page SEO factor?",
+      "options": {
+        "A": "Backlinks",
+        "B": "Social shares",
+        "C": "Keyword Placement in content",
+        "D": "Paid ads"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "36",
+      "question": "Keyword stuffing means:",
+      "options": {
+        "A": "Using keywords wisely",
+        "B": "Overusing keywords unnaturally",
+        "C": "Ignoring keywords",
+        "D": "Using images only"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "37",
+      "question": "Where should keywords be placed?",
+      "options": {
+        "A": "Title, URL, headings, and content",
+        "B": "Social Media only",
+        "C": "CSS code",
+        "D": "Image file name only"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "38",
+      "question": "Which tool is used for keyword research?",
+      "options": {
+        "A": "Google Drive",
+        "B": "Gmail",
+        "C": "Google Keyword Planner",
+        "D": "WhatsApp"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "39",
+      "question": "What is a good keyword density?",
+      "options": {
+        "A": "20–25%",
+        "B": "1–2%",
+        "C": "10%",
+        "D": "0%"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "40",
+      "question": "Which SEO technique involves optimizing content?",
+      "options": {
+        "A": "On-Page SEO",
+        "B": "Off-Page SEO",
+        "C": "Email Marketing",
+        "D": "Hosting"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "41",
+      "question": "What does content optimization mean in SEO?",
+      "options": {
+        "A": "Deleting all images",
+        "B": "Improving content for better search visibility",
+        "C": "Increasing spam score",
+        "D": "Ignoring keywords"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "42",
+      "question": "Which plugin is popular for SEO in WordPress?",
+      "options": {
+        "A": "Elementor",
+        "B": "Yoast SEO",
+        "C": "Canva",
+        "D": "Google Maps"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "43",
+      "question": "What is the primary function of Yoast SEO plugin?",
+      "options": {
+        "A": "Image design",
+        "B": "Color changing",
+        "C": "SEO content optimization and readability checks",
+        "D": "Uploading videos"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "44",
+      "question": "Off-page SEO mainly focuses on:",
+      "options": {
+        "A": "Building backlinks and social media signals",
+        "B": "Writing internal content",
+        "C": "Fixing hosting",
+        "D": "Page speed"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "45",
+      "question": "One example of off-page SEO technique is:",
+      "options": {
+        "A": "Guest blogging",
+        "B": "Internal linking",
+        "C": "Page title optimization",
+        "D": "Keyword stuffing"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "46",
+      "question": "Why are backlinks important in SEO?",
+      "options": {
+        "A": "They increase website authority",
+        "B": "They slow the website",
+        "C": "They add more ads",
+        "D": "They improve page design"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "47",
+      "question": "A do-follow backlink allows:",
+      "options": {
+        "A": "Social login",
+        "B": "Link juice to pass to your site",
+        "C": "Comments",
+        "D": "Paid promotions"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "48",
+      "question": "On-page SEO helps in:",
+      "options": {
+        "A": "Creating ads",
+        "B": "Improving individual page content and structure",
+        "C": "Increasing domain age",
+        "D": "Buying hosting"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "49",
+      "question": "Which is NOT part of on-page SEO?",
+      "options": {
+        "A": "Directory submission",
+        "B": "Title optimization",
+        "C": "Meta description",
+        "D": "URL structure"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "50",
+      "question": "An ideal meta description is:",
+      "options": {
+        "A": "500 characters",
+        "B": "150–160 characters summarizing the page",
+        "C": "Written in code",
+        "D": "Contains random keywords"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "51",
+      "question": "What is email marketing used for?",
+      "options": {
+        "A": "Blocking users",
+        "B": "Watching videos",
+        "C": "Sending targeted messages to users via email",
+        "D": "Coding a website"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "52",
+      "question": "Which platform is used to run email campaigns?",
+      "options": {
+        "A": "Facebook",
+        "B": "Mailchimp",
+        "C": "Instagram",
+        "D": "Canva"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "53",
+      "question": "Email marketing is considered:",
+      "options": {
+        "A": "A type of offline marketing",
+        "B": "A direct digital marketing technique",
+        "C": "Traditional marketing",
+        "D": "WordPress feature"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "54",
+      "question": "What is a benefit of email marketing?",
+      "options": {
+        "A": "Slow delivery",
+        "B": "High printing cost",
+        "C": "Personalization and low cost",
+        "D": "High bounce rate"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "55",
+      "question": "In email marketing, what does CTR stand for?",
+      "options": {
+        "A": "Click To Read",
+        "B": "Click Through Rate",
+        "C": "Customer Target Report",
+        "D": "Content Time Rate"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "56",
+      "question": "What is a good practice in email subject lines?",
+      "options": {
+        "A": "Using all caps",
+        "B": "Adding too many emojis",
+        "C": "Keeping it short and relevant",
+        "D": "Including URLs only"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "57",
+      "question": "What is email segmentation?",
+      "options": {
+        "A": "Sending the same mail to everyone",
+        "B": "Dividing the audience based on interests or behavior",
+        "C": "Ignoring bounce rate",
+        "D": "Resending all mails"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "58",
+      "question": "What is a “bounce” in email marketing?",
+      "options": {
+        "A": "When the email fails to reach the recipient",
+        "B": "When the user replies",
+        "C": "When the email is forwarded",
+        "D": "When the server responds"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "59",
+      "question": "Mailchimp is used for:",
+      "options": {
+        "A": "Web hosting",
+        "B": "SEO",
+        "C": "Email campaign creation and automation",
+        "D": "Making reels"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "60",
+      "question": "Which type of email campaign is used for promotions?",
+      "options": {
+        "A": "Promotional Email Campaign",
+        "B": "Transactional email",
+        "C": "Spam email",
+        "D": "RSS feed"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "61",
+      "question": "Why is a signup form important?",
+      "options": {
+        "A": "To collect emails legally from users",
+        "B": "To show popups",
+        "C": "To block websites",
+        "D": "To load faster"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "62",
+      "question": "What is a double opt-in?",
+      "options": {
+        "A": "Two passwords",
+        "B": "Confirming subscription via email after signing up",
+        "C": "Double email blast",
+        "D": "Backup process"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "63",
+      "question": "Why should you segment your email list?",
+      "options": {
+        "A": "To make them unsubscribe",
+        "B": "To send more personalized and relevant content",
+        "C": "To spam more",
+        "D": "For Google ranking"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "64",
+      "question": "What is email automation?",
+      "options": {
+        "A": "Automatically sending pre-scheduled emails",
+        "B": "Sending manual emails",
+        "C": "Forwarding WhatsApp",
+        "D": "Sharing on Facebook"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "65",
+      "question": "A welcome email is:",
+      "options": {
+        "A": "The first email sent to new subscribers",
+        "B": "A feedback form",
+        "C": "A payment email",
+        "D": "A newsletter always"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "66",
+      "question": "One benefit of email automation is:",
+      "options": {
+        "A": "Less engagement",
+        "B": "Manual errors",
+        "C": "Saves time and improves engagement",
+        "D": "More spam"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "67",
+      "question": "Which tool is best for email automation?",
+      "options": {
+        "A": "Twitter",
+        "B": "Mailchimp",
+        "C": "Notepad",
+        "D": "Google Docs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "68",
+      "question": "When should you clean your email list?",
+      "options": {
+        "A": "When open and click rates drop",
+        "B": "Every week",
+        "C": "After every post",
+        "D": "Before SEO"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "69",
+      "question": "What is A/B testing in email campaigns?",
+      "options": {
+        "A": "Testing app speed",
+        "B": "Comparing two versions of an email to see which performs better",
+        "C": "Changing colors",
+        "D": "Sending without subject"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "70",
+      "question": "What should an email footer contain?",
+      "options": {
+        "A": "Only images",
+        "B": "Contact info, unsubscribe link, company details",
+        "C": "Keywords",
+        "D": "Title tag"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "71",
+      "question": "What does PPC stand for?",
+      "options": {
+        "A": "Pay Per Click",
+        "B": "Post Per Comment",
+        "C": "Promotion Per Cost",
+        "D": "Paid Promotion by Call"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "72",
+      "question": "Which is a famous PPC platform?",
+      "options": {
+        "A": "Instagram",
+        "B": "Canva",
+        "C": "Google Ads",
+        "D": "Gmail"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "73",
+      "question": "What happens in a PPC model?",
+      "options": {
+        "A": "You pay for impressions",
+        "B": "You pay when someone clicks on your ad",
+        "C": "You pay once a day",
+        "D": "No payment involved"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "74",
+      "question": "What is Google AdWords now known as?",
+      "options": {
+        "A": "Facebook Ads",
+        "B": "Google Ads",
+        "C": "Gmail Ads",
+        "D": "YouTube PPC"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "75",
+      "question": "What is the purpose of a bidding strategy?",
+      "options": {
+        "A": "To boost email campaigns",
+        "B": "To control how much you're willing to pay per click",
+        "C": "To print brochures",
+        "D": "To edit CSS"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "76",
+      "question": "Which of the following is NOT a bidding strategy in Google Ads?",
+      "options": {
+        "A": "Manual CPC",
+        "B": "Target ROAS",
+        "C": "Static SEO Pricing",
+        "D": "Maximize Conversions"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "77",
+      "question": "Quality Score depends on:",
+      "options": {
+        "A": "Facebook Likes",
+        "B": "Ad relevance, CTR, and landing page experience",
+        "C": "Email Bounce",
+        "D": "Number of domains"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "78",
+      "question": "A high-quality score results in:",
+      "options": {
+        "A": "Higher ad cost",
+        "B": "Lower ad cost and better ranking",
+        "C": "Ignored ad",
+        "D": "More text"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "79",
+      "question": "What is CTR in Google Ads?",
+      "options": {
+        "A": "Click Through Rate",
+        "B": "Call to Read",
+        "C": "Campaign Test Result",
+        "D": "Click to Revenue"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "80",
+      "question": "What does CPC stand for in PPC campaigns?",
+      "options": {
+        "A": "Cost Per Click",
+        "B": "Clicks Per Conversion",
+        "C": "Cost Per Campaign",
+        "D": "Cost Per Code"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "81",
+      "question": "A campaign that shows on search engine results page is:",
+      "options": {
+        "A": "Search Campaign",
+        "B": "Video Campaign",
+        "C": "Shopping Campaign",
+        "D": "Display Campaign"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "82",
+      "question": "Display Ads usually contain:",
+      "options": {
+        "A": "Text only",
+        "B": "Banners, images, or rich media",
+        "C": "Audio",
+        "D": "Emails"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "83",
+      "question": "Which is better for visual branding?",
+      "options": {
+        "A": "Search Campaign",
+        "B": "Display Campaign",
+        "C": "Shopping Cart",
+        "D": "Excel Ad"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "84",
+      "question": "What is a negative keyword in PPC?",
+      "options": {
+        "A": "A keyword you don’t want your ads to show for",
+        "B": "A spam keyword",
+        "C": "Low-cost keyword",
+        "D": "Blog keyword"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "85",
+      "question": "Google Ads Editor is used for:",
+      "options": {
+        "A": "Managing large campaigns offline",
+        "B": "Editing images",
+        "C": "Creating Facebook posts",
+        "D": "Writing blogs"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "86",
+      "question": "What does CPA mean in PPC?",
+      "options": {
+        "A": "Campaign Performance Analyzer",
+        "B": "Cost Per Acquisition",
+        "C": "Clicks Per Audience",
+        "D": "Creative Page Advertisement"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "87",
+      "question": "What is the first step in creating a PPC campaign?",
+      "options": {
+        "A": "Making a blog",
+        "B": "Defining your goal and target audience",
+        "C": "Hosting website",
+        "D": "Sending emails"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "88",
+      "question": "Which type of ad is shown on YouTube?",
+      "options": {
+        "A": "Text",
+        "B": "Image",
+        "C": "Video Ads",
+        "D": "Blog"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "89",
+      "question": "Universal App Campaigns promote:",
+      "options": {
+        "A": "Blogs",
+        "B": "Mobile Applications",
+        "C": "eBooks",
+        "D": "Hosting services"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "90",
+      "question": "What is conversion tracking?",
+      "options": {
+        "A": "Monitoring if a user performs a desired action like signup or purchase",
+        "B": "Number of blogs",
+        "C": "Time on site",
+        "D": "Speed test"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "91",
+      "question": "What is the main goal of a search ad campaign?",
+      "options": {
+        "A": "To appear when someone searches relevant keywords",
+        "B": "To increase likes",
+        "C": "To play video ads",
+        "D": "To run email campaigns"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "92",
+      "question": "Display ads are shown on:",
+      "options": {
+        "A": "Search bar",
+        "B": "Partner websites and apps",
+        "C": "Local directories",
+        "D": "Contact pages"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "93",
+      "question": "Which Google network shows Display Ads?",
+      "options": {
+        "A": "Search Network",
+        "B": "Display Network",
+        "C": "Facebook Audience",
+        "D": "WordPress"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "94",
+      "question": "Ad extensions in search ads help:",
+      "options": {
+        "A": "Decrease ad rank",
+        "B": "Show extra information like links and contact",
+        "C": "Hide URLs",
+        "D": "Block IPs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "95",
+      "question": "A responsive display ad automatically:",
+      "options": {
+        "A": "Adjusts size and format based on device",
+        "B": "Shows on Facebook",
+        "C": "Sends emails",
+        "D": "Stops search"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "96",
+      "question": "What is ad scheduling?",
+      "options": {
+        "A": "Buying keywords",
+        "B": "Choosing specific times/days to show ads",
+        "C": "Deleting content",
+        "D": "Blocking users"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "97",
+      "question": "What is frequency capping?",
+      "options": {
+        "A": "Showing ads all the time",
+        "B": "Limiting number of times ad is shown to one person",
+        "C": "Increasing spam",
+        "D": "Keyword stuffing"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "98",
+      "question": "Which tool monitors Google Ads performance?",
+      "options": {
+        "A": "Facebook Ads Manager",
+        "B": "Google Ads Dashboard",
+        "C": "YouTube Studio",
+        "D": "Canva"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "99",
+      "question": "What does \"Impression\" mean in Google Ads?",
+      "options": {
+        "A": "Number of times ad is shown",
+        "B": "Number of clicks",
+        "C": "Conversions",
+        "D": "Ad rejection"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "100",
+      "question": "What is the benefit of display remarketing?",
+      "options": {
+        "A": "Re-target users who previously visited your site",
+        "B": "Increase CPC",
+        "C": "Send emails",
+        "D": "Optimize server"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "101",
+      "question": "Video ads mostly appear on:",
+      "options": {
+        "A": "Gmail",
+        "B": "YouTube",
+        "C": "Instagram",
+        "D": "WordPress"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "102",
+      "question": "What is skippable video ad?",
+      "options": {
+        "A": "Ad that user can skip after 5 seconds",
+        "B": "Non-playable ad",
+        "C": "Ad without sound",
+        "D": "Auto-play ad"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "103",
+      "question": "What does CPV stand for?",
+      "options": {
+        "A": "Click Per Value",
+        "B": "Cost Per View",
+        "C": "Campaign Per Video",
+        "D": "Creative Page Video"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "104",
+      "question": "Bumper ads are:",
+      "options": {
+        "A": "6-second non-skippable video ads",
+        "B": "Emails",
+        "C": "Blogs",
+        "D": "Display images"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "105",
+      "question": "Universal App Campaigns promote:",
+      "options": {
+        "A": "Blogs",
+        "B": "Mobile apps on Google Play and Search",
+        "C": "Social media",
+        "D": "Emails"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "106",
+      "question": "App campaign optimization types include:",
+      "options": {
+        "A": "Installs, In-app actions, Value",
+        "B": "Display ads",
+        "C": "Video uploads",
+        "D": "CTR"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "107",
+      "question": "Which is not part of Universal App Campaign?",
+      "options": {
+        "A": "Search Ads",
+        "B": "Backlinking",
+        "C": "YouTube Ads",
+        "D": "Play Store"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "108",
+      "question": "App install campaign goal is:",
+      "options": {
+        "A": "To get users to download your mobile app",
+        "B": "To create blogs",
+        "C": "To upload files",
+        "D": "To buy hosting"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "109",
+      "question": "What platform supports Universal App Campaigns?",
+      "options": {
+        "A": "Canva",
+        "B": "Google Ads",
+        "C": "Excel",
+        "D": "Wix"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "110",
+      "question": "Target CPA in app campaigns means:",
+      "options": {
+        "A": "Target Cost Per Acquisition",
+        "B": "Campaign Payment Amount",
+        "C": "Click Performance Area",
+        "D": "Content per App"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "111",
+      "question": "What is the main purpose of Google Analytics?",
+      "options": {
+        "A": "Tracking and analyzing website traffic",
+        "B": "Sending emails",
+        "C": "Posting ads",
+        "D": "Building websites"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "112",
+      "question": "A \"session\" in Google Analytics refers to:",
+      "options": {
+        "A": "A single visit to the site",
+        "B": "A group of interactions within a time frame",
+        "C": "Newsletter",
+        "D": "Domain"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "113",
+      "question": "What does bounce rate mean?",
+      "options": {
+        "A": "Visitors who leave without any interaction",
+        "B": "Visitors clicking all links",
+        "C": "Visitors joining email list",
+        "D": "Visitors buying products"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "114",
+      "question": "Conversion in Analytics refers to:",
+      "options": {
+        "A": "Page loading",
+        "B": "Desired action taken by user (buy, sign up)",
+        "C": "Hosting cost",
+        "D": "Commenting"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "115",
+      "question": "Google Analytics tracks goals like:",
+      "options": {
+        "A": "Color change",
+        "B": "Purchases, signups, downloads",
+        "C": "Ad cost",
+        "D": "Website size"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "116",
+      "question": "What is a real-time report?",
+      "options": {
+        "A": "Data shown for users currently on the site",
+        "B": "Future prediction",
+        "C": "Average data",
+        "D": "Export"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "117",
+      "question": "Google Analytics interface has:",
+      "options": {
+        "A": "File manager",
+        "B": "Dashboard, reports, admin settings",
+        "C": "Google Drive",
+        "D": "CMS"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "118",
+      "question": "How can you track users from campaigns?",
+      "options": {
+        "A": "Using UTM Parameters",
+        "B": "Using PDFs",
+        "C": "Via hosting",
+        "D": "By downloads"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "119",
+      "question": "Goal tracking requires:",
+      "options": {
+        "A": "Setting up goals in Admin panel",
+        "B": "Theme selection",
+        "C": "Blog posting",
+        "D": "Image design"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "120",
+      "question": "Which report shows how users find your website?",
+      "options": {
+        "A": "Acquisition Report",
+        "B": "Behavior",
+        "C": "Real-time",
+        "D": "Exit page"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "121",
+      "question": "Social media marketing is used to:",
+      "options": {
+        "A": "Promote products on platforms like FB, Instagram, Twitter",
+        "B": "Create blogs",
+        "C": "Host websites",
+        "D": "Send emails"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "122",
+      "question": "Facebook ads manager is used for:",
+      "options": {
+        "A": "Creating and managing Facebook ad campaigns",
+        "B": "Sending texts",
+        "C": "Designing posters",
+        "D": "Scheduling meetings"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "123",
+      "question": "Ad formats on Facebook include:",
+      "options": {
+        "A": "Poster",
+        "B": "Image, Video, Carousel, Slideshow",
+        "C": "Charts",
+        "D": "Emails"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "124",
+      "question": "Target audience in Facebook means:",
+      "options": {
+        "A": "Everyone",
+        "B": "Specific group based on interest, age, location",
+        "C": "Random viewers",
+        "D": "Bots"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "125",
+      "question": "Facebook Pixel is used for:",
+      "options": {
+        "A": "Tracking visitor actions on your website",
+        "B": "Changing fonts",
+        "C": "Making reels",
+        "D": "Finding posts"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "126",
+      "question": "Facebook carousel ads include:",
+      "options": {
+        "A": "One image",
+        "B": "Multiple images/videos in one ad",
+        "C": "Just text",
+        "D": "Comments"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "127",
+      "question": "Facebook Ad Account is used to:",
+      "options": {
+        "A": "Manage billing, ads, performance tracking",
+        "B": "Download posts",
+        "C": "Remove comments",
+        "D": "Create emails"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "128",
+      "question": "Lookalike audience helps in:",
+      "options": {
+        "A": "Ignoring users",
+        "B": "Reaching new people similar to your existing users",
+        "C": "Repeating ads",
+        "D": "Deleting followers"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "129",
+      "question": "Facebook ads are charged by:",
+      "options": {
+        "A": "CPC, CPM, etc.",
+        "B": "Monthly plans",
+        "C": "Website visit",
+        "D": "Download size"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "130",
+      "question": "Main objective of social media ads is:",
+      "options": {
+        "A": "Engagement, traffic, conversions",
+        "B": "Image upload",
+        "C": "Audio play",
+        "D": "Web hosting"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "131",
+      "question": "Twitter ads are also called:",
+      "options": {
+        "A": "Promoted Tweets",
+        "B": "Hashtags",
+        "C": "Twitter Blogs",
+        "D": "Media Tweets"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "132",
+      "question": "What is required to run Facebook Ads?",
+      "options": {
+        "A": "Personal Instagram account",
+        "B": "Facebook Group",
+        "C": "Facebook Business Manager",
+        "D": "Google Ads account"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "133",
+      "question": "Facebook Custom Audiences help you:",
+      "options": {
+        "A": "Block specific users",
+        "B": "Reach existing users who have interacted with your business",
+        "C": "Create new user profiles",
+        "D": "Avoid ad spending"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "134",
+      "question": "Lookalike Audiences are based on:",
+      "options": {
+        "A": "Interests only",
+        "B": "Custom Audiences",
+        "C": "Facebook Insights",
+        "D": "Trending Pages"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "135",
+      "question": "Facebook Pixel is used for:",
+      "options": {
+        "A": "Posting organic content",
+        "B": "Designing images",
+        "C": "Tracking website visitor behavior",
+        "D": "Running contests"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "136",
+      "question": "Facebook Pixel helps in:",
+      "options": {
+        "A": "Getting page likes",
+        "B": "Increasing story views",
+        "C": "Retargeting website visitors",
+        "D": "Boosting group engagement"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "137",
+      "question": "Which of the following is a benefit of Facebook Ad Campaigns?",
+      "options": {
+        "A": "Organic follower boost",
+        "B": "Precise audience targeting",
+        "C": "Free traffic only",
+        "D": "Group notifications"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "138",
+      "question": "A/B Testing in Facebook Ads means:",
+      "options": {
+        "A": "Creating one final ad",
+        "B": "Testing colors only",
+        "C": "Comparing different ad versions",
+        "D": "Group polling"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "139",
+      "question": "The Facebook Pixel code is added to:",
+      "options": {
+        "A": "Facebook Page",
+        "B": "Website HTML code",
+        "C": "Instagram Profile",
+        "D": "Facebook Group"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "140",
+      "question": "Facebook Ads Manager is used to:",
+      "options": {
+        "A": "Manage Facebook Pages",
+        "B": "Create, manage and analyze ads",
+        "C": "Send messages",
+        "D": "Join groups"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "141",
+      "question": "Twitter ad campaigns are created from:",
+      "options": {
+        "A": "Facebook Business Suite",
+        "B": "Twitter Ads Manager",
+        "C": "LinkedIn Dashboard",
+        "D": "Google Analytics"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "142",
+      "question": "Twitter Ads can help to:",
+      "options": {
+        "A": "Increase followers only",
+        "B": "Promote tweets to a target audience",
+        "C": "Design landing pages",
+        "D": "Schedule blogs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "143",
+      "question": "The goal of Twitter Ads includes:",
+      "options": {
+        "A": "Posting memes",
+        "B": "Driving engagement and traffic",
+        "C": "Joining spaces",
+        "D": "Bookmarking tweets"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "144",
+      "question": "In Twitter Ads, which format is common?",
+      "options": {
+        "A": "Threads",
+        "B": "Promoted Tweets",
+        "C": "Fleets",
+        "D": "Twitter Notes"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "145",
+      "question": "What does Facebook Pixel track?",
+      "options": {
+        "A": "Page likes",
+        "B": "Website visitor actions",
+        "C": "Messenger responses",
+        "D": "Group invitations"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "146",
+      "question": "Conversion tracking is possible with:",
+      "options": {
+        "A": "Instagram stories",
+        "B": "Facebook Pixel",
+        "C": "Twitter trends",
+        "D": "Facebook Watch"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "147",
+      "question": "To start LinkedIn marketing, you need a:",
+      "options": {
+        "A": "Twitter account",
+        "B": "Facebook group",
+        "C": "LinkedIn Company Page",
+        "D": "YouTube channel"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "148",
+      "question": "LinkedIn is best suited for:",
+      "options": {
+        "A": "E-commerce shopping",
+        "B": "Professional networking and B2B marketing",
+        "C": "Meme sharing",
+        "D": "Gaming communities"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "149",
+      "question": "On LinkedIn, Sponsored Content appears in:",
+      "options": {
+        "A": "InMail inbox",
+        "B": "User's feed like regular posts",
+        "C": "LinkedIn Stories",
+        "D": "Notifications only"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "150",
+      "question": "LinkedIn ads can target based on:",
+      "options": {
+        "A": "Facebook likes",
+        "B": "Job title and company",
+        "C": "Google searches",
+        "D": "Email provider"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "151",
+      "question": "A key benefit of LinkedIn marketing is:",
+      "options": {
+        "A": "Free giveaways",
+        "B": "Reaching decision-makers directly",
+        "C": "Story features",
+        "D": "Meme popularity"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "152",
+      "question": "LinkedIn InMail is used for:",
+      "options": {
+        "A": "Sending direct personalized messages",
+        "B": "Posting group ads",
+        "C": "Polling followers",
+        "D": "Running contests"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "153",
+      "question": "Integrated Digital Marketing focuses on:",
+      "options": {
+        "A": "One platform only",
+        "B": "Combining multiple online channels",
+        "C": "Removing offline support",
+        "D": "Ignoring mobile users"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "154",
+      "question": "A key part of Integrated Strategy is:",
+      "options": {
+        "A": "Viral reels",
+        "B": "Consistent messaging across platforms",
+        "C": "Creating personal blogs only",
+        "D": "Auto-comment bots"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "155",
+      "question": "Facebook Pixel works in combination with:",
+      "options": {
+        "A": "Email automation",
+        "B": "Website and Ads Manager",
+        "C": "Instagram hashtags",
+        "D": "Google Forms"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "156",
+      "question": "For LinkedIn Ads, which format is available?",
+      "options": {
+        "A": "Carousel Ads",
+        "B": "Text-only Blogs",
+        "C": "Sponsored InMail",
+        "D": "Audio Rooms"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "157",
+      "question": "A Facebook Lookalike Audience helps to:",
+      "options": {
+        "A": "Show the same ad again and again",
+        "B": "Reach new people similar to your existing audience",
+        "C": "Block irrelevant traffic",
+        "D": "Create duplicate campaigns"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "158",
+      "question": "The best platform for B2B marketing is:",
+      "options": {
+        "A": "Facebook",
+        "B": "Twitter",
+        "C": "LinkedIn",
+        "D": "Snapchat"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "159",
+      "question": "Twitter campaign budget is set in:",
+      "options": {
+        "A": "Number of tweets",
+        "B": "Daily or total budget",
+        "C": "Likes per tweet",
+        "D": "Comments section"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "160",
+      "question": "In Facebook Ads, campaign objectives include:",
+      "options": {
+        "A": "Profile pictures",
+        "B": "Chat rooms",
+        "C": "Traffic, Conversion, Engagement",
+        "D": "Viral dances"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "161",
+      "question": "Facebook Ads split testing helps in:",
+      "options": {
+        "A": "Reducing competition",
+        "B": "Finding best-performing ad version",
+        "C": "Copying others' content",
+        "D": "Posting anonymously"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "162",
+      "question": "Twitter Ads help increase:",
+      "options": {
+        "A": "Retweets only",
+        "B": "Brand awareness and engagement",
+        "C": "Organic traffic",
+        "D": "Group members"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "163",
+      "question": "Facebook Ads allow targeting by:",
+      "options": {
+        "A": "MAC address",
+        "B": "Location, behavior, interests",
+        "C": "IP address only",
+        "D": "Browser used"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "164",
+      "question": "LinkedIn Matched Audiences allow:",
+      "options": {
+        "A": "Random targeting",
+        "B": "Targeting people from your email/contact list",
+        "C": "Posting polls only",
+        "D": "Searching hashtags"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "165",
+      "question": "Facebook Ads Campaign Structure is:",
+      "options": {
+        "A": "Page → Pixel → Audience",
+        "B": "Campaign → Ad Set → Ad",
+        "C": "Group → Story → Post",
+        "D": "Business → Video → Message"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "166",
+      "question": "Twitter Ad metrics include:",
+      "options": {
+        "A": "Tweet likes only",
+        "B": "Impressions, Engagement, Clicks",
+        "C": "Website code",
+        "D": "Follower birthdays"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "167",
+      "question": "The best ad type for website sales is:",
+      "options": {
+        "A": "Event Ads",
+        "B": "Conversion Ads",
+        "C": "Page Like Ads",
+        "D": "Story Ads"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "168",
+      "question": "Facebook Retargeting helps in:",
+      "options": {
+        "A": "Avoiding past users",
+        "B": "Reaching users who already visited your website",
+        "C": "Finding new customers only",
+        "D": "Spamming users"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "169",
+      "question": "Twitter Ads require:",
+      "options": {
+        "A": "Only mobile",
+        "B": "Verified profile",
+        "C": "Twitter Ads Account and billing setup",
+        "D": "Trend subscriptions"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "170",
+      "question": "Facebook Ads performance is measured by:",
+      "options": {
+        "A": "Organic reach",
+        "B": "CTR, CPC, Conversion Rate",
+        "C": "Follower growth",
+        "D": "Emoji count"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "171",
+      "question": "A good LinkedIn strategy includes:",
+      "options": {
+        "A": "Memes only",
+        "B": "Sharing valuable B2B content",
+        "C": "Ignoring messages",
+        "D": "Copying posts"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "172",
+      "question": "Facebook Conversion Tracking shows:",
+      "options": {
+        "A": "Ad cost only",
+        "B": "Actions taken after clicking the ad",
+        "C": "Number of likes",
+        "D": "Daily status"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "173",
+      "question": "InMail is part of which platform?",
+      "options": {
+        "A": "Facebook",
+        "B": "LinkedIn",
+        "C": "Instagram",
+        "D": "WhatsApp"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "174",
+      "question": "One advantage of Twitter Ads is:",
+      "options": {
+        "A": "Free marketing tools",
+        "B": "Real-time audience engagement",
+        "C": "Long videos",
+        "D": "Voice messages"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "175",
+      "question": "Facebook Ads library allows:",
+      "options": {
+        "A": "Editing competitor ads",
+        "B": "Viewing ads running by any page",
+        "C": "Tracking followers",
+        "D": "Reporting users"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "176",
+      "question": "Retargeting can be done using:",
+      "options": {
+        "A": "Email only",
+        "B": "Facebook Pixel and Custom Audiences",
+        "C": "Instagram comments",
+        "D": "Twitter hashtags"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "177",
+      "question": "Ad frequency refers to:",
+      "options": {
+        "A": "Number of times ad is created",
+        "B": "How often the same user sees your ad",
+        "C": "Campaign duration",
+        "D": "Billing cycle"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "178",
+      "question": "A good CTR (Click Through Rate) means:",
+      "options": {
+        "A": "Ad is not working",
+        "B": "Ad is getting more clicks",
+        "C": "Conversion is high",
+        "D": "Budget is low"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "179",
+      "question": "Twitter Ads campaign can be optimized for:",
+      "options": {
+        "A": "Storage",
+        "B": "App installs, video views, engagement",
+        "C": "Email lists",
+        "D": "Facebook comments"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "180",
+      "question": "Facebook Ads reporting tool is:",
+      "options": {
+        "A": "Pixel Builder",
+        "B": "Ads Manager Analytics",
+        "C": "Boost Insights",
+        "D": "Page Reach"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "181",
+      "question": "LinkedIn campaign objectives include:",
+      "options": {
+        "A": "Comments",
+        "B": "Website visits, Engagement, Lead generation",
+        "C": "Retweets",
+        "D": "Shares only"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "182",
+      "question": "Pixel fires an event when:",
+      "options": {
+        "A": "User opens browser",
+        "B": "User takes action like click or form submit",
+        "C": "You delete cookies",
+        "D": "Profile is updated"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "183",
+      "question": "Integrated Strategy ensures:",
+      "options": {
+        "A": "One ad for all",
+        "B": "All digital channels work together with a consistent message",
+        "C": "Using TV ads",
+        "D": "Random targeting"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "184",
+      "question": "Facebook ad sets control:",
+      "options": {
+        "A": "Ad budget only",
+        "B": "Budget, audience, schedule",
+        "C": "Color and design",
+        "D": "Followers"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "185",
+      "question": "You can retarget using:",
+      "options": {
+        "A": "Random people",
+        "B": "Pixel-based audience",
+        "C": "Instagram trends",
+        "D": "Google Docs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "186",
+      "question": "A complete campaign in Facebook includes:",
+      "options": {
+        "A": "One video",
+        "B": "Campaign, Ad set, Ad",
+        "C": "Page name only",
+        "D": "Group and story"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "187",
+      "question": "Lead generation ads help:",
+      "options": {
+        "A": "Sell products",
+        "B": "Collect user details like name and email",
+        "C": "Promote trends",
+        "D": "Gain likes only"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "188",
+      "question": "Carousel ads are best for:",
+      "options": {
+        "A": "Polls",
+        "B": "Showing multiple products",
+        "C": "Story telling",
+        "D": "Text blogs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "189",
+      "question": "Facebook Ads charge based on:",
+      "options": {
+        "A": "Daily login",
+        "B": "Group joining",
+        "C": "Clicks or impressions",
+        "D": "Shares"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "190",
+      "question": "Twitter ad billing is based on:",
+      "options": {
+        "A": "Number of likes",
+        "B": "Followers",
+        "C": "Campaign objective like clicks, installs",
+        "D": "Account age"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "191",
+      "question": "Retargeting boosts:",
+      "options": {
+        "A": "Ad budget",
+        "B": "Conversion rates",
+        "C": "Likes",
+        "D": "Bounce rate"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "192",
+      "question": "In LinkedIn, best time to post is:",
+      "options": {
+        "A": "Midnight",
+        "B": "Weekends",
+        "C": "Weekdays during work hours",
+        "D": "Late nights"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "193",
+      "question": "Facebook Insights help with:",
+      "options": {
+        "A": "Billing info",
+        "B": "Understanding audience behavior",
+        "C": "Changing ad format",
+        "D": "Pixel blocking"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "194",
+      "question": "Custom conversions in Facebook are based on:",
+      "options": {
+        "A": "Budget",
+        "B": "Specific URLs or events",
+        "C": "Likes",
+        "D": "Groups"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "195",
+      "question": "Twitter Cards are used for:",
+      "options": {
+        "A": "Polls",
+        "B": "Enhanced media-rich tweets",
+        "C": "Hashtags",
+        "D": "Auto DMs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "196",
+      "question": "Facebook Ad Review process includes:",
+      "options": {
+        "A": "Pixel check",
+        "B": "Audience analysis",
+        "C": "Checking ad content and policy compliance",
+        "D": "Follower count"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "197",
+      "question": "LinkedIn lead forms are:",
+      "options": {
+        "A": "Landing pages",
+        "B": "Pre-filled forms users submit directly on LinkedIn",
+        "C": "Group join requests",
+        "D": "Post comments"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "198",
+      "question": "Twitter audience targeting includes:",
+      "options": {
+        "A": "Only country",
+        "B": "Gender only",
+        "C": "Interests, behaviors, followers",
+        "D": "Age only"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "199",
+      "question": "Facebook A/B testing checks for:",
+      "options": {
+        "A": "Random users",
+        "B": "Best ad version performance",
+        "C": "Payment method",
+        "D": "Network speed"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "200",
+      "question": "Main goal of integrated strategy is:",
+      "options": {
+        "A": "Platform testing",
+        "B": "One-time traffic",
+        "C": "Consistent user experience across all digital channels",
+        "D": "Page promotion only"
+      },
+      "answer": "C"
+    }
+  ]
+}

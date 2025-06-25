@@ -1,0 +1,664 @@
+{
+  "mcqs": [
+    {
+      "id": "1",
+      "question": "What are the three fundamental factors influencing pricing decisions in a business?",
+      "options": {
+        "A": "Place, Product, and Price",
+        "B": "Customer, Competitor, and Company",
+        "C": "Perfect market, Physical evidence, and Promotion",
+        "D": "None of the above"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "2",
+      "question": "An organization is best defined as a structured _______ entity that operates for a specific purpose.",
+      "options": {
+        "A": "Commercial",
+        "B": "Practitioner",
+        "C": "Government",
+        "D": "Non-Profit"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "3",
+      "question": "In PESTEL analysis, which factor primarily concerns global warming and sustainability issues?",
+      "options": {
+        "A": "Economic",
+        "B": "Environmental",
+        "C": "Entertaining",
+        "D": "Evolving"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "4",
+      "question": "When is customer satisfaction at its peak in terms of value delivery?",
+      "options": {
+        "A": "When the provided value is maximum",
+        "B": "When the provided value is minimum",
+        "C": "When the provided value equals the expected value",
+        "D": "None of the above"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "5",
+      "question": "What does the term 'Omni-Channel' refer to in marketing?",
+      "options": {
+        "A": "Physical Channel",
+        "B": "Digital Channel",
+        "C": "Both Physical and Digital Channels",
+        "D": "Delivery Channel"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "6",
+      "question": "Which of the following tasks is the least digitalized?",
+      "options": {
+        "A": "Booking a cab for a hotel journey",
+        "B": "Getting a Demand Draft from a bank",
+        "C": "Ordering food online",
+        "D": "Connecting with a friend via a laptop"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "7",
+      "question": "What is the primary goal of developing a business model focused on customer experience?",
+      "options": {
+        "A": "Creating a seamless experience for the customer",
+        "B": "Generating profit at a high cost",
+        "C": "Making products and services more accessible to customers",
+        "D": "Both Creating a seamless experience and Accessibility"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is a key component in ensuring a seamless shopping experience for customers?",
+      "options": {
+        "A": "A well-developed platform or mobile app",
+        "B": "Website",
+        "C": "Hoarding (Billboards)",
+        "D": "Company office"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "9",
+      "question": "In SEO (Search Engine Optimization), what does 'SERP' stand for?",
+      "options": {
+        "A": "Search Engine Result Page",
+        "B": "Social Engagement and Reach Platform",
+        "C": "Search Engine Ranking Protocol",
+        "D": "Social Engine Ranking Page"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "10",
+      "question": "Why is digital marketing considered more suitable for small businesses than traditional marketing?",
+      "options": {
+        "A": "It provides equal exposure to all businesses regardless of size.",
+        "B": "Digital marketing platforms are easier to use without professional expertise.",
+        "C": "It allows small businesses to compete with larger companies by targeting niche markets with precision.",
+        "D": "Traditional marketing offers more opportunities for brand visibility."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "11",
+      "question": "Why is digital marketing often considered more cost-effective than traditional marketing?",
+      "options": {
+        "A": "Digital marketing requires no investment in advertising platforms.",
+        "B": "Digital marketing allows for more expensive campaigns with higher returns.",
+        "C": "Digital marketing offers lower costs per impression and the ability to measure ROI more accurately.",
+        "D": "Traditional marketing is inherently more expensive due to its reliance on digital tools."
+      },
+      "answer": "C"
+    },
+    {
+      "id": "12",
+      "question": "Which of the following is a primary advantage of digital marketing over traditional marketing in terms of targeting and personalization?",
+      "options": {
+        "A": "Digital marketing allows for broader reach without the need for segmentation.",
+        "B": "Digital marketing enables real-time data collection, and the creation of personalized campaigns based on user behavior.",
+        "C": "Traditional marketing offers better targeting through demographic data.",
+        "D": "Traditional marketing allows for more accurate measurement of customer preferences."
+      },
+      "answer": "B"
+    },
+    {
+      "id": "13",
+      "question": "What is the primary goal of content marketing in digital marketing?",
+      "options": {
+        "A": "To create and share valuable content to attract and engage a target audience",
+        "B": "To increase the number of online ads displayed to potential customers",
+        "C": "To maximize the budget spent on digital advertising",
+        "D": "To automate customer service responses"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "14",
+      "question": "Which of the following is a key benefit of using social media marketing for businesses?",
+      "options": {
+        "A": "Instant organic search engine ranking",
+        "B": "Direct interaction with customers",
+        "C": "Automated email responses",
+        "D": "High cost per impression"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "15",
+      "question": "In email marketing, what does the term 'CTR' stand for?",
+      "options": {
+        "A": "Click-Through Rate",
+        "B": "Cost-To-Reach",
+        "C": "Customer Turnover Rate",
+        "D": "Conversion Tracking Rate"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "16",
+      "question": "Which digital marketing application is primarily focused on improving a website's visibility in organic search engine results?",
+      "options": {
+        "A": "Social Media Marketing",
+        "B": "Search Engine Optimization",
+        "C": "Content Marketing",
+        "D": "Email Marketing"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "17",
+      "question": "Which of the following is NOT a common application of digital marketing?",
+      "options": {
+        "A": "Search Engine Optimization (SEO)",
+        "B": "Pay-Per-Click Advertising (PPC)",
+        "C": "Telemarketing (TM)",
+        "D": "Social Media Marketing (SMM)"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "18",
+      "question": "What is the primary purpose of using Google Analytics in digital marketing?",
+      "options": {
+        "A": "To create social media content",
+        "B": "To analyze website traffic and user behavior",
+        "C": "To manage email campaigns",
+        "D": "To optimize TV ad placements"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "19",
+      "question": "Which of the following is a key component of content marketing?",
+      "options": {
+        "A": "Creating valuable, relevant content",
+        "B": "Buying email lists",
+        "C": "Sending cold emails",
+        "D": "Advertising on television"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "20",
+      "question": "Which of the following metrics is most important for measuring the success of a PPC (Pay-Per-Click) campaign?",
+      "options": {
+        "A": "Followers Count",
+        "B": "Click-Through Rate (CTR)",
+        "C": "Bounce Rate",
+        "D": "Page Views"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "21",
+      "question": "Which of the following is NOT a characteristic of digital marketing communication?",
+      "options": {
+        "A": "Interactive nature",
+        "B": "Immediate feedback",
+        "C": "One-way mass communication",
+        "D": "Personalization"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "22",
+      "question": "In the 6M’s framework of marketing communication, which of the following refers to the process of delivering the message to the target audience?",
+      "options": {
+        "A": "Market",
+        "B": "Message",
+        "C": "Media",
+        "D": "Measurement"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "23",
+      "question": "What does POEM stand for in digital marketing?",
+      "options": {
+        "A": "Paid Media, Offline Media, Engaged Media",
+        "B": "Performance Media, Owned Media, Earned Media",
+        "C": "Paid Media, Owned Media, Earned Media",
+        "D": "Programmatic Media, Organic Media, Engaged Media"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "24",
+      "question": "Which of the following is an example of owned media?",
+      "options": {
+        "A": "Google Ads",
+        "B": "A company's official website",
+        "C": "A sponsored Instagram post",
+        "D": "A newspaper advertisement"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "25",
+      "question": "In digital marketing, native advertising refers to ads that:",
+      "options": {
+        "A": "Blend seamlessly with content and match the platform’s style",
+        "B": "Appear only in search engine results",
+        "C": "Use aggressive pop-ups for customer attention",
+        "D": "Are always displayed as banner ads on websites"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "26",
+      "question": "Which of the following is a key advantage of paid search advertising?",
+      "options": {
+        "A": "It guarantees organic reach without cost",
+        "B": "It allows advertisers to target specific keywords and user intent",
+        "C": "It only works for social media platforms",
+        "D": "It is a free method of digital marketing"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "27",
+      "question": "What is a major trend in digital marketing?",
+      "options": {
+        "A": "A shift from mobile to desktop advertising",
+        "B": "A decline in social media marketing",
+        "C": "The growing importance of mobile and social media",
+        "D": "A return to traditional media as the dominant channel"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "28",
+      "question": "Display ads in digital marketing refer to:",
+      "options": {
+        "A": "Text-based advertisements on search engines",
+        "B": "Advertisements that appear in traditional print media",
+        "C": "Visual-based ads such as banners, images, or videos on websites",
+        "D": "Sponsored influencer posts on social media"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "29",
+      "question": "Which of the following is an example of earned media?",
+      "options": {
+        "A": "A Facebook ad campaign",
+        "B": "A YouTube influencer getting paid for a product review",
+        "C": "A company running Google Ads",
+        "D": "A customer writing a positive review about a product"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "30",
+      "question": "Which stage of the value delivery process does digital marketing communication primarily focus on?",
+      "options": {
+        "A": "Communicate the value",
+        "B": "Provide the value",
+        "C": "Choose the value",
+        "D": "Deliver the value"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "31",
+      "question": "What is the primary goal of inbound marketing?",
+      "options": {
+        "A": "Sending cold emails to potential customers",
+        "B": "Interrupting users with advertisements",
+        "C": "Attracting and engaging customers through valuable content",
+        "D": "Purchasing email lists for marketing campaigns"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "32",
+      "question": "Which of the following is NOT a stage of inbound marketing?",
+      "options": {
+        "A": "Attract",
+        "B": "Engage",
+        "C": "Convert",
+        "D": "Cold Calling"
+      },
+      "answer": "D"
+    },
+    {
+      "id": "33",
+      "question": "Why do users often share video content online?",
+      "options": {
+        "A": "To increase the number of ads on their social media feed",
+        "B": "To engage with others by sharing emotions, humour, or valuable information",
+        "C": "To decrease website traffic",
+        "D": "Because they are required to do so"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "34",
+      "question": "Which of the following is a key objective of content marketing?",
+      "options": {
+        "A": "Increasing website bounce rate",
+        "B": "Providing valuable content to attract and retain customers",
+        "C": "Reducing customer interaction",
+        "D": "Avoiding customer feedback"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "35",
+      "question": "How does inbound marketing differ from outbound marketing?",
+      "options": {
+        "A": "Inbound marketing interrupts potential customers with ads",
+        "B": "Outbound marketing focuses on SEO, while inbound marketing does not",
+        "C": "Inbound marketing attracts customers by providing valuable content, whereas outbound marketing pushes messages through direct advertising",
+        "D": "Outbound marketing does not involve paid advertisements"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "36",
+      "question": "What is one of the key components of SEO in content marketing?",
+      "options": {
+        "A": "Keyword Optimization",
+        "B": "Buying followers on social media",
+        "C": "Sending mass promotional emails",
+        "D": "Using irrelevant hashtags"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "37",
+      "question": "Which of the following is an example of inbound marketing?",
+      "options": {
+        "A": "Running TV advertisements",
+        "B": "Cold calling potential customers",
+        "C": "Creating blog content that provides value to potential customers",
+        "D": "Sending unsolicited promotional emails"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "38",
+      "question": "What is the significance of the 'Engage' stage in inbound marketing?",
+      "options": {
+        "A": "It focuses on converting customers into brand advocates",
+        "B": "It involves interrupting customers with aggressive sales pitches",
+        "C": "It only applies to social media marketing",
+        "D": "It is about ignoring customer concerns"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "39",
+      "question": "What is one way video content can be used effectively in inbound marketing?",
+      "options": {
+        "A": "Posting irrelevant videos without a strategy",
+        "B": "Creating engaging and informative videos that align with audience interests",
+        "C": "Using clickbait thumbnails to mislead viewers",
+        "D": "Uploading videos without descriptions or captions"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "40",
+      "question": "What is a major benefit of content marketing in inbound marketing?",
+      "options": {
+        "A": "It reduces the need for customer engagement",
+        "B": "It helps establish thought leadership and trust with the audience",
+        "C": "It is only useful for B2B companies",
+        "D": "It replaces the need for SEO"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "41",
+      "question": "Which of the following is a key reason for the growth of social media?",
+      "options": {
+        "A": "Declining internet penetration",
+        "B": "Increased smartphone usage",
+        "C": "Decreased digital engagement",
+        "D": "Lack of interest in online communities"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "42",
+      "question": "What does 'Social Media for Open Innovation' primarily involve?",
+      "options": {
+        "A": "Keeping innovation confidential",
+        "B": "Using social media to gather ideas from external sources",
+        "C": "Limiting customer feedback to traditional surveys",
+        "D": "Avoiding customer engagement in product development"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "43",
+      "question": "Which of the following is NOT a common social strategy?",
+      "options": {
+        "A": "Engagement-based strategy",
+        "B": "Broadcasting-only strategy",
+        "C": "Influencer collaboration strategy",
+        "D": "Customer service strategy"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "44",
+      "question": "A consistent and integrated social media strategy means:",
+      "options": {
+        "A": "Posting random content across different platforms",
+        "B": "Using the same content for all platforms without modification",
+        "C": "Ensuring a unified brand message across various social media channels",
+        "D": "Completely relying on paid promotions"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "45",
+      "question": "Social media endorsements are most effective when:",
+      "options": {
+        "A": "They come from high-profile celebrities only",
+        "B": "The endorser has no connection with the brand",
+        "C": "They appear authentic and align with audience interests.",
+        "D": "They rely entirely on automated bots for engagement"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "46",
+      "question": "Which of the following best describes 'Social Strategy - Options Thematically'?",
+      "options": {
+        "A": "Categorizing social strategies based on themes like engagement, branding, and sales",
+        "B": "Randomly selecting different social strategies",
+        "C": "Using only one strategy at a time",
+        "D": "Relying solely on influencer marketing for all campaigns"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "47",
+      "question": "What is the primary metric used to measure the ROI of a social media campaign?",
+      "options": {
+        "A": "Number of followers gained",
+        "B": "Increase in website traffic",
+        "C": "Conversion rate and revenue generated",
+        "D": "Number of posts shared"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "48",
+      "question": "Why is it important to measure the ROI of social media campaigns?",
+      "options": {
+        "A": "To justify the budget and effectiveness of campaigns",
+        "B": "To increase the number of likes on social media posts",
+        "C": "To ensure social media replaces all other marketing efforts",
+        "D": "To focus only on viral content"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "49",
+      "question": "Which of these is an example of using social media for product development?",
+      "options": {
+        "A": "Running paid ads for existing products",
+        "B": "Crowdsourcing ideas for a new product through social media polls",
+        "C": "Sending product samples only to in-house employees",
+        "D": "Avoiding customer feedback on new designs"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "50",
+      "question": "What is a key characteristic of an effective social media strategy?",
+      "options": {
+        "A": "Posting content without analyzing audience engagement",
+        "B": "Having a clear objective and aligning content with business goals",
+        "C": "Using social media only for customer service",
+        "D": "Ignoring analytics and metrics"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "51",
+      "question": "What is the primary purpose of customer insights?",
+      "options": {
+        "A": "To increase the price of products",
+        "B": "To better understand customer needs and behaviors",
+        "C": "To reduce the number of customer complaints",
+        "D": "To create advertisements without customer feedback"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "52",
+      "question": "Which of the following is a key factor in customer retention?",
+      "options": {
+        "A": "Frequent changes in product pricing",
+        "B": "Delivering consistent value and high-quality service",
+        "C": "Limiting customer support interactions",
+        "D": "Increasing the difficulty of switching to competitors"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "53",
+      "question": "In market development, which strategy is commonly used to expand the customer base?",
+      "options": {
+        "A": "Reducing product features",
+        "B": "Entering new geographical markets",
+        "C": "Avoiding partnerships with distributors",
+        "D": "Focusing only on existing customers"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "54",
+      "question": "Customer co-creation is best described as:",
+      "options": {
+        "A": "A process where companies develop products independently",
+        "B": "A collaboration where customers contribute to product development",
+        "C": "A strategy to exclude customer opinions in decision-making",
+        "D": "A technique for increasing advertising effectiveness"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "55",
+      "question": "What is the primary goal of customer analysis?",
+      "options": {
+        "A": "Understanding customer demographics, behaviors, and preferences",
+        "B": "Reducing the marketing budget",
+        "C": "Ignoring customer feedback to make quick decisions",
+        "D": "Selling products to all customers, regardless of their needs"
+      },
+      "answer": "A"
+    },
+    {
+      "id": "56",
+      "question": "Why is customer feedback crucial in product development?",
+      "options": {
+        "A": "It allows companies to blindly follow competitor trends",
+        "B": "It provides insights to align products with customer needs",
+        "C": "It ensures that companies do not make changes to existing products",
+        "D": "It is only relevant for startups and small businesses"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "57",
+      "question": "Which of the following is NOT a key element of market development?",
+      "options": {
+        "A": "Expanding into new customer segments",
+        "B": "Introducing existing products into new markets",
+        "C": "Reducing the customer base intentionally",
+        "D": "Conducting research on potential new market opportunities"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "58",
+      "question": "A company that involves customers in brainstorming and idea generation is using which strategy?",
+      "options": {
+        "A": "Customer retention",
+        "B": "Market segmentation",
+        "C": "Customer co-creation",
+        "D": "Product withdrawal"
+      },
+      "answer": "C"
+    },
+    {
+      "id": "59",
+      "question": "Which of the following is an example of a customer retention strategy?",
+      "options": {
+        "A": "Ignoring customer complaints",
+        "B": "Offering personalized loyalty programs",
+        "C": "Decreasing product quality over time",
+        "D": "Constantly increasing product prices"
+      },
+      "answer": "B"
+    },
+    {
+      "id": "60",
+      "question": "What is a critical benefit of engaging customers in product development?",
+      "options": {
+        "A": "Reduced need for marketing efforts",
+        "B": "Faster adoption and customer satisfaction",
+        "C": "Higher costs with no improvement in sales",
+        "D": "Increased product complexity without added value"
+      },
+      "answer": "B"
+    }
+  ]
+}
